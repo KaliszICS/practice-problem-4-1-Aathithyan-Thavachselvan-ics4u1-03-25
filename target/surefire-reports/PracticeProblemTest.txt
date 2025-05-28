@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: PracticeProblemTest
+-------------------------------------------------------------------------------
+Tests run: 28, Failures: 8, Errors: 0, Skipped: 0, Time elapsed: 0.105 s <<< FAILURE! - in PracticeProblemTest
+getWidthTest1  Time elapsed: 0.036 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Rectangle class does not exist
+	at PracticeProblemTest.getWidthTest1(PracticeProblemTest.java:96)
+
+getWidthTest2  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Rectangle class does not exist
+	at PracticeProblemTest.getWidthTest2(PracticeProblemTest.java:113)
+
+rectPerimeterTest1  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Rectangle class does not exist
+	at PracticeProblemTest.rectPerimeterTest1(PracticeProblemTest.java:164)
+
+rectPerimeterTest2  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Rectangle class does not exist
+	at PracticeProblemTest.rectPerimeterTest2(PracticeProblemTest.java:181)
+
+rectAreaTest1  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Rectangle class does not exist
+	at PracticeProblemTest.rectAreaTest1(PracticeProblemTest.java:130)
+
+rectAreaTest2  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Rectangle class does not exist
+	at PracticeProblemTest.rectAreaTest2(PracticeProblemTest.java:147)
+
+getLengthTest1  Time elapsed: 0.004 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Rectangle class does not exist
+	at PracticeProblemTest.getLengthTest1(PracticeProblemTest.java:62)
+
+getLengthTest2  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Rectangle class does not exist
+	at PracticeProblemTest.getLengthTest2(PracticeProblemTest.java:79)
+
